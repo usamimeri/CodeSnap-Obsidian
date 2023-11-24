@@ -31,6 +31,7 @@ export default class MyPlugin extends Plugin {
 	//……
 	
 	//
+	//
 	
 	//卸载插件时做什么 一般不写
 	onunload() {} 
