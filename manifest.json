@@ -1,0 +1,9 @@
+{
+	"id": "codesnap-obsidian",
+	"name": "codesnap-obsidian",
+	"version": "1.0.0",
+	"description": "a plugin that transforms the CodeSnap extension from VSCode into Obsidian. It provides a one-click button for CodeSnap within code blocks.",
+	"author": "usamimeri",
+	"authorUrl": "https://github.com/usamimeri",
+	"isDesktopOnly": false
+}
